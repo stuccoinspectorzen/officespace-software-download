@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for OfficeSpace Software.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit OfficeSpace Software on SOFTGIT](https://softgit.pro/p/officespace-software)** — the full listing.
+- 📄 **[OfficeSpace Software web page](https://stuccoinspectorzen.github.io/officespace-software-download/)** — standalone info page.
+- 🗂️ [More Communications software](https://softgit.pro/category/communications)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for OfficeSpace Software. Third-party software; all rights belong to the original authors.
